@@ -58,4 +58,4 @@ wish myscript.tcl
 [MIT License](https://www.google.com/search?q=LICENSE)
 
 ---
-Powered by (Gemini)[https://gemini.google.com]
+Powered by [Gemini](https://gemini.google.com)
